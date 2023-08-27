@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/space-travel/static/css/main.a45428b3.css",
+    "main.js": "/space-travel/static/js/main.82038116.js",
+    "index.html": "/space-travel/index.html",
+    "main.a45428b3.css.map": "/space-travel/static/css/main.a45428b3.css.map",
+    "main.82038116.js.map": "/space-travel/static/js/main.82038116.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a45428b3.css",
+    "static/js/main.82038116.js"
+  ]
+}
