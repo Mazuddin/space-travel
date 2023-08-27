@@ -1,0 +1,31 @@
+/* Navigation styles */
+.navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #292c2a92;
+  padding: 1rem 0;
+  box-shadow: 0 2px 4px rgba(252, 5, 5, 0.637);
+}
+
+.navigation__item {
+  text-decoration: none;
+  color: #f01414;
+  font-size: 2rem;
+  margin: 0 1.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.navigation__item:hover {
+  background-color: #ff9900;
+  color: #292b2c;
+}
+
+.navigation__item--active {
+  background-color: #ff9900;
+  color: #292b2c;
+  font-weight: bold;
+}
+
